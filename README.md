@@ -1,2 +1,2 @@
 # VizWiz
-Deepl learning for image quality assessment
+Deep learning for image quality assessment
